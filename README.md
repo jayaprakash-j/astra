@@ -1,5 +1,4 @@
 # Astra
-<<<<<<< HEAD
 
 SLA based Eventing engine written on top of NATS.IO and RocksDB
 
@@ -15,4 +14,3 @@ Default users: omega
 Real time SLA based Eventing Engine using NATS.IO 
 
 Initial version is implemented on RocksDB and V2 will be on Badger DB
->>>>>>> 31e3e9fb0fa8bca1483996744fe1ec1e1da0928c
